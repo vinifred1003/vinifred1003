@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinifred1003&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifred1003&show_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifred1003&hide_progress=true&theme=merko)
 
 
 ## Hard Skills
