@@ -5,9 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifred1003&layout=compact&theme=merko)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifred&layout=compact)
-
-
 
 ## Hard Skills
 
