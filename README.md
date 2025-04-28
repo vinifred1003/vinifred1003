@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusfrederico1003@gmail.com)
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifred1003&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinifred1003&layout=compact&theme=merko)
 
 
 ## Hard Skills
